@@ -1,1 +1,3 @@
-# taller-python-cientifico
+# Taller de Python para uso Científico
+
+Material para el taller
